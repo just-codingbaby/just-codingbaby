@@ -1,16 +1,32 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=300&section=header&text=It's&nbsp;just...&fontSize=90&fontColor=FFFF00&fontAlignY=45&desc=Chan's%20GitHub%20&descAlignY=62&descAlign=68)
 
-<!--
-**just-codingbaby/just-codingbaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align=center>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.JS-5FA04E?style=for-the-badge&logo=Node.JS&logoColor=white">  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">  
+  <img src="https://img.shields.io/badge/next.JS-000000?style=for-the-badge&logo=next.JS&logoColor=white">  
+  <img src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">  
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<h3 align="center">📫 Contact 📫</h3>  
+<div align="center">
+   <a href="https://www.instagram.com/cksssu/">
+  <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+  </a>
+  
+  <a href="https://velog.io/@just-codingbaby/posts">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  
+  <a href="mailto:jhc539386@gmail.com">
+    <img src="https://img.shields.io/badge/jhc539386@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
