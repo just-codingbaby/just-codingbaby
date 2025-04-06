@@ -18,9 +18,6 @@
 ---
 <h3 align="center">📫 Contact 📫</h3>  
 <div align="center">
-   <a href="https://www.instagram.com/cksssu/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
-  </a>
   
   <a href="https://velog.io/@just-codingbaby/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
